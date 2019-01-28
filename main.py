@@ -1,4 +1,4 @@
 from myclass import MyClass 
 
-s = MyClass()
+s = MyClass("Eldar", 28)
 
